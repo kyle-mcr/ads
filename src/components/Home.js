@@ -104,16 +104,15 @@ const Home = () => {
       <BgOverlay />
       <div className="container">
         <HomeTitle data-aos="zoom-in">
-          It is a long established fact that a reader will be distracted by the
-          readable content of a page when looking at its layout.
+          Apollo Drain & Rooter Service
         </HomeTitle>
         <SubTitle
           data-aos="fade-up"
           data-aos-easing="ease"
           data-aos-delay="400"
         >
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry.
+          Plumbing Company Serving Santa Cruz County & Surrounding Areas
+      
         </SubTitle>
       </div>
     </Section>

@@ -4,6 +4,8 @@ import { Link, animateScroll as scroll } from "react-scroll";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
+import logo from ".././assets/img/logo.png"
+
 
 const Header = () => {
   const scrollTo = id => e => {
@@ -25,7 +27,7 @@ const Header = () => {
             onClick={scrollTo("home")}
             aria-label="Logo"
           >
-            LOGO
+            <img src={logo} alt="Logo" />
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav">
             <span />

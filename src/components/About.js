@@ -86,20 +86,17 @@ const About = () => {
   return (
     <Section id="about">
       <div className="container">
-        <SectionTitle>Lorem ipsum dolor sit amet</SectionTitle>
-        <SubTitle>Lorem ipsum dolor sit amet</SubTitle>
+        <SectionTitle>Apollo Drain operates 24 hours a day / 7 days a week for emergency services</SectionTitle>
+        <SubTitle>Just call or text at the number below</SubTitle>
         <div className="row">
           <div className="col-lg-4">
             <Box data-aos={width >= 1400 ? "fade-right" : "fade-up"}>
               <IconWrap>
                 <Demo />
               </IconWrap>
-              <BoxTitle>Declarative</BoxTitle>
+              <BoxTitle>Drain & Sewer Cleaning</BoxTitle>
               <Text>
-                React makes it painless to create interactive UIs. Design simple
-                views for each state in your application, and React will
-                efficiently update and render just the right components when
-                your data changes.
+              Are your sinks backing up? Are tree roots taking over your pipes? Do your drains keep clogging? All of these are signs of a drain blockage and that it’s time to call a drain cleaning specialist. Our professionals offer an expansive list of drain and sewer cleaning services including hydro-jetting and snaking to release the toughest clogs.
               </Text>
             </Box>
           </div>
@@ -108,11 +105,9 @@ const About = () => {
               <IconWrap>
                 <Demo />
               </IconWrap>
-              <BoxTitle>Component-Based</BoxTitle>
+              <BoxTitle>Sewer Repair</BoxTitle>
               <Text>
-                Since component logic is written in JavaScript instead of
-                templates, you can easily pass rich data through your app and
-                keep state out of the DOM.
+              Sewer & Drain Cleaning are able to identify any and all damage to sewer pipes through a thorough investigation of the plumbing. The first line of defense is always to repair the problem, but if the problem isn’t fixable, the next step is a sewer line replacement. Underground plumbing issues and sewer line replacements typically involve various methods like hydro excavation, tunneling, and backfilling. A skilled sewer repair technician at Art will be able to evaluate your specific needs and guide you through the process.
               </Text>
             </Box>
           </div>
@@ -121,11 +116,9 @@ const About = () => {
               <IconWrap>
                 <Demo />
               </IconWrap>
-              <BoxTitle>Learn Once, Write Anywhere</BoxTitle>
+              <BoxTitle>Sewer System Backups</BoxTitle>
               <Text>
-                We don’t make assumptions about the rest of your technology
-                stack, so you can develop new features in React without
-                rewriting existing code.
+              The most common cause of sewer system backups in are tree root invasion and clogged pipes. Using various tools and technologies, we will be able to identify and remedy your sewer system backup. If you suspect that you’re dealing with a sewer backup, call the experts at Apollo Drain Services for a thorough analysis of your rooter issue. Whatever the problem is, we will get the job done right the first time.
               </Text>
             </Box>
           </div>
